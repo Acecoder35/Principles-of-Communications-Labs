@@ -1,2 +1,2 @@
 # Principles-of-Communications-Labs
-Pin-point analysis of exercises from the course.
+Pin-point analysis of exercises and activities from the course.
